@@ -60,6 +60,10 @@ This can improve the UX checkout experience of your customer, as you can "preloa
 
 This is a simple example of our Payform using a Bootstrap modal.
 
+## ButtonExample.html
+
+This is an example of how you can initiate the everypay.onClick() function, using a button outside of the actual form.
+
 <!-- CONTACT -->
 ## Contact
 
