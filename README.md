@@ -43,6 +43,13 @@ Tho run this project simply do:
 
 ```npm start```
 
+## react-example
+
+This is an example of our Payform embeded in VueJs using Nuxt.
+
+To run just use ```npm run dev```
+
+
 ## CheckoutExample.html
 
 This is an example of our Payform being loaded whilst is hidden.
