@@ -25,7 +25,7 @@ export default {
   mounted() {
 
     var payload = {
-      pk: 'pk_vI1tWSHzaskrVBobzcqvwk0uYAWXR8BP',
+      pk: 'your-public-key', //can be found in your dashboard
       amount: 50,
       locale: 'el',
       txnType: 'tds',

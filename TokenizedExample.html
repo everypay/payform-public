@@ -55,10 +55,10 @@
 function savedCard() {
   everypay.resetForm();
   everypay.tokenized({
-    pk: 'pk_vI1tWSHzaskrVBobzcqvwk0uYAWXR8BP',
+    pk: 'your-public-key', //can be found in your dashboard
       amount: 5000,
       data: {
-        cardToken: 'crd_7BV8NyZlTzvA4mhgak04pYK3',
+        cardToken: 'a saved card token', //can be created by a successful payment with capture parameter 
         cardType: 'visa',
         cardExpMonth: '05',
         cardExpYear: '2022',

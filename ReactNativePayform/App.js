@@ -57,7 +57,7 @@ const App: () => React$Node = () => {
                       "    console.log('r', r);" +
                       '  }' +
                       'const defaultForm = {' +
-                      "  pk: 'pk_vI1tWSHzaskrVBobzcqvwk0uYAWXR8BP'," +
+                      "  pk: 'your-public-key'," +
                       '  amount: 5013,' +
                       "  locale: 'el'," +
                       '  display: {' +

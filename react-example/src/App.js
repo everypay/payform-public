@@ -7,7 +7,7 @@ function App() {
 
     useEffect(() => {
         window.everypay.payform({
-            pk: 'pk_vI1tWSHzaskrVBobzcqvwk0uYAWXR8BP',
+            pk: 'your-public-key', //can be found in your dashboard
             amount: 5012,
             locale: 'el',
             installments: [2, 6, 8],
