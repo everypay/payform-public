@@ -53,7 +53,6 @@
 <script src="https://sandbox-js.everypay.gr/v3"></script>
 <script>
 function savedCard() {
-  everypay.resetForm();
   everypay.tokenized({
     pk: 'your-public-key', //can be found in your dashboard
       amount: 5000,
@@ -69,7 +68,6 @@ function savedCard() {
 }
 
 function payform() {
-  everypay.resetForm();
   everypay.payform({
     pk: 'pk_vI1tWSHzaskrVBobzcqvwk0uYAWXR8BP',
       amount: 5000,
